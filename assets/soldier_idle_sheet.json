@@ -1,0 +1,330 @@
+{
+	"frames": [
+		{
+			"filename": "sword_idlev1_frame0000.png",
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"w": 276,
+				"h": 276
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 276,
+				"h": 276
+			},
+			"sourceSize": {
+				"w": 276,
+				"h": 276
+			}
+		},
+		{
+			"filename": "sword_idlev1_frame0001.png",
+			"frame": {
+				"x": 276,
+				"y": 0,
+				"w": 276,
+				"h": 276
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 276,
+				"h": 276
+			},
+			"sourceSize": {
+				"w": 276,
+				"h": 276
+			}
+		},
+		{
+			"filename": "sword_idlev1_frame0002.png",
+			"frame": {
+				"x": 552,
+				"y": 0,
+				"w": 276,
+				"h": 276
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 276,
+				"h": 276
+			},
+			"sourceSize": {
+				"w": 276,
+				"h": 276
+			}
+		},
+		{
+			"filename": "sword_idlev1_frame0003.png",
+			"frame": {
+				"x": 828,
+				"y": 0,
+				"w": 276,
+				"h": 276
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 276,
+				"h": 276
+			},
+			"sourceSize": {
+				"w": 276,
+				"h": 276
+			}
+		},
+		{
+			"filename": "sword_idlev1_frame0004.png",
+			"frame": {
+				"x": 1104,
+				"y": 0,
+				"w": 276,
+				"h": 276
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 276,
+				"h": 276
+			},
+			"sourceSize": {
+				"w": 276,
+				"h": 276
+			}
+		},
+		{
+			"filename": "sword_idlev1_frame0005.png",
+			"frame": {
+				"x": 1380,
+				"y": 0,
+				"w": 276,
+				"h": 276
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 276,
+				"h": 276
+			},
+			"sourceSize": {
+				"w": 276,
+				"h": 276
+			}
+		},
+		{
+			"filename": "sword_idlev1_frame0006.png",
+			"frame": {
+				"x": 1656,
+				"y": 0,
+				"w": 276,
+				"h": 276
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 276,
+				"h": 276
+			},
+			"sourceSize": {
+				"w": 276,
+				"h": 276
+			}
+		},
+		{
+			"filename": "sword_idlev1_frame0007.png",
+			"frame": {
+				"x": 1932,
+				"y": 0,
+				"w": 276,
+				"h": 276
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 276,
+				"h": 276
+			},
+			"sourceSize": {
+				"w": 276,
+				"h": 276
+			}
+		},
+		{
+			"filename": "sword_idlev1_frame0008.png",
+			"frame": {
+				"x": 2208,
+				"y": 0,
+				"w": 276,
+				"h": 276
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 276,
+				"h": 276
+			},
+			"sourceSize": {
+				"w": 276,
+				"h": 276
+			}
+		},
+		{
+			"filename": "sword_idlev1_frame0009.png",
+			"frame": {
+				"x": 2484,
+				"y": 0,
+				"w": 276,
+				"h": 276
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 276,
+				"h": 276
+			},
+			"sourceSize": {
+				"w": 276,
+				"h": 276
+			}
+		},
+		{
+			"filename": "sword_idlev1_frame0010.png",
+			"frame": {
+				"x": 2760,
+				"y": 0,
+				"w": 276,
+				"h": 276
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 276,
+				"h": 276
+			},
+			"sourceSize": {
+				"w": 276,
+				"h": 276
+			}
+		},
+		{
+			"filename": "sword_idlev1_frame0011.png",
+			"frame": {
+				"x": 3036,
+				"y": 0,
+				"w": 276,
+				"h": 276
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 276,
+				"h": 276
+			},
+			"sourceSize": {
+				"w": 276,
+				"h": 276
+			}
+		},
+		{
+			"filename": "sword_idlev1_frame0012.png",
+			"frame": {
+				"x": 3312,
+				"y": 0,
+				"w": 276,
+				"h": 276
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 276,
+				"h": 276
+			},
+			"sourceSize": {
+				"w": 276,
+				"h": 276
+			}
+		},
+		{
+			"filename": "sword_idlev1_frame0013.png",
+			"frame": {
+				"x": 3588,
+				"y": 0,
+				"w": 276,
+				"h": 276
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 276,
+				"h": 276
+			},
+			"sourceSize": {
+				"w": 276,
+				"h": 276
+			}
+		},
+		{
+			"filename": "sword_idlev1_frame0014.png",
+			"frame": {
+				"x": 3864,
+				"y": 0,
+				"w": 276,
+				"h": 276
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 276,
+				"h": 276
+			},
+			"sourceSize": {
+				"w": 276,
+				"h": 276
+			}
+		}
+	],
+	"meta": {
+		"app": "http://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "spritesheet.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 4140,
+			"h": 276
+		},
+		"scale": "1"
+	}
+}
